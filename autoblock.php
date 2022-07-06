@@ -2,7 +2,7 @@
 
 $limit = 2000;
 
-$external_ip = "27.71.238.121";
+$external_ip = "103.173.155.236";
 $skip = [$external_ip, "199.241.138.81"];
 
 $serverip=$external_ip;
