@@ -1,6 +1,6 @@
 <?php
 
-$limit = 4500;
+$limit = 2000;
 
 $external_ip = "27.71.238.121";
 $skip = [$external_ip, "199.241.138.81"];
