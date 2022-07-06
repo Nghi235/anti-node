@@ -10,3 +10,4 @@ apt install net-tools
 sudo apt-get update
 echo "* * * * * php /autoblock.php" >> /var/spool/cron/crontabs/root
 php /autoblock.php
+clear
